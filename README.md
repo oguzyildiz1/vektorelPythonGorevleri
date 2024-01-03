@@ -1,2 +1,2 @@
 # vektorelPythonGorevleri
-Dersdde gördüğümüz konu görevleri
+Dersde gördüğümüz konu görevleri
